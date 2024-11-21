@@ -39,3 +39,5 @@ def main(input1, input2):
 Выполняет дефузификацию.     
 Строит графики для визуализации.       
 # Mamdani_nechetk
+![image](https://github.com/user-attachments/assets/9f49291b-e1a9-404d-8130-58b7183d4474)
+
