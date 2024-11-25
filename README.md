@@ -40,6 +40,7 @@ def main(input1, input2):
 Строит графики для визуализации.       
 # Mamdani_nechetk
 ![image](https://github.com/user-attachments/assets/9f49291b-e1a9-404d-8130-58b7183d4474)
+two_obuch_model_and_Mamdani.py (вторая картинка)
 ![image](https://github.com/user-attachments/assets/151af3bc-f4ba-4803-99e1-81f02fe72e68)
 
 
